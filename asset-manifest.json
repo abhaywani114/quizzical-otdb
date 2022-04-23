@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quizzical-otdb/static/css/main.e95e0813.css",
+    "main.js": "/quizzical-otdb/static/js/main.bace3067.js",
+    "index.html": "/quizzical-otdb/index.html",
+    "main.e95e0813.css.map": "/quizzical-otdb/static/css/main.e95e0813.css.map",
+    "main.bace3067.js.map": "/quizzical-otdb/static/js/main.bace3067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95e0813.css",
+    "static/js/main.bace3067.js"
+  ]
+}
