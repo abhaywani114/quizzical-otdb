@@ -78,7 +78,7 @@ export default function QuestionScreen(props) {
 					<button onClick={() => setQuizSubmit(true)} className="check-answer">Check Answer</button>)}
 
 				{ questionData.length > 0 && selectedOption.length !== questionData.length && !quizSubmit && (
-					<button onClick={() => loadQuizData()} className="check-answer">New Quiz</button>)}
+					<button onClick={newQuiz} className="check-answer">New Quiz</button>)}
 
 				{ quizSubmit && (
 					<>
